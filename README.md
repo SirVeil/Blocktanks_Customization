@@ -2,17 +2,17 @@
 Numerous advanced customizations for Blocktanks.io condensed into a single mod.  Our goal is to have it ultimately be integrated into the game.  UnknownUser and SirDrone are the primary developers of this mod.
 
 ### Customization Objectives:
-1.)  Lets players change their tank color from the usual blue/red
-    a.) In FFA, you're normally Blue and everyone else is Red.  But why can't players be green, orange, purple, possibly even black/white (depending on dark mode and ofc play-testing to verify that's okay)?   Custom colors could be allowed potentially in FFA, Battle Royale, and customs (this'd be a selectable setting for custom matches).
-    b.) For team matches, you can wear your custom colors, but everyone else will still see red/blue
+1. Lets players change their tank color from the usual blue/red
+   - a. In FFA, you're normally Blue and everyone else is Red.  But why can't players be green, orange, purple, possibly even black/white (depending on dark mode and ofc play-testing to verify that's okay)?   Custom colors could be allowed potentially in FFA, Battle Royale, and customs (this'd be a selectable setting for custom matches).
+   - b.) For team matches, you can wear your custom colors, but everyone else will still see red/blue
 
-2.)  Lets players have preset skin loadout slots
+2.  Lets players have preset skin loadout slots
 
-3.)  Gives players the ability to alter their own bullet skin, *visible only to themselves*, and also for customs (also a selectable setting for customs).  Think mini-gunning candy corn instead of round bullets 🍬 
+3.  Gives players the ability to alter their own bullet skin, *visible only to themselves*, and also for customs (also a selectable setting for customs).  Think mini-gunning candy corn instead of round bullets 🍬 
 
-4.)  More UI themes besides dark-mode
+4.  More UI themes besides dark-mode
 
-5.)  Lets players change their targeting cursor (from the usual "+" shape into many other shapes, colors, and icons; this can be done for snipers as well)
+5.  Lets players change their targeting cursor (from the usual "+" shape into many other shapes, colors, and icons; this can be done for snipers as well)
 See: https://discord.com/channels/458034316677611543/1240128424362774578
 
 Losing subscription would reset your character to the stickers, colors, cursors, bullets, etc. you had when non-subscribed.
